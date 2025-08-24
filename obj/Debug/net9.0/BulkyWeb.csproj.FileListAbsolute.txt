@@ -149,7 +149,6 @@
 /Users/pc/Desktop/BulkyWeb/obj/Debug/net9.0/compressed/ans4ep15c6-j5mq2jizvt.gz
 /Users/pc/Desktop/BulkyWeb/obj/Debug/net9.0/compressed/9qakh2lkvu-06098lyss8.gz
 /Users/pc/Desktop/BulkyWeb/obj/Debug/net9.0/compressed/dnhgeuk73o-nvvlpmu67g.gz
-/Users/pc/Desktop/BulkyWeb/obj/Debug/net9.0/compressed/bcan9r7e7h-s35ty4nyc5.gz
 /Users/pc/Desktop/BulkyWeb/obj/Debug/net9.0/compressed/ayx1qknkc2-pj5nd1wqec.gz
 /Users/pc/Desktop/BulkyWeb/obj/Debug/net9.0/compressed/mna8b0n55p-46ein0sx1k.gz
 /Users/pc/Desktop/BulkyWeb/obj/Debug/net9.0/compressed/zg4lz4bcg0-v0zj4ognzu.gz
@@ -222,3 +221,4 @@
 /Users/pc/Desktop/BulkyWeb/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/pc/Desktop/BulkyWeb/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/pc/Desktop/BulkyWeb/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/pc/Desktop/BulkyWeb/obj/Debug/net9.0/compressed/bcan9r7e7h-qyo6ziobml.gz
